@@ -1,0 +1,28 @@
+{
+  "place_id": 96705127,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 9459123280,
+  "lat": "40.396464",
+  "lon": "-3.7151396",
+  "display_name": "7, Calle de Antonio Leyva, Comillas, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28019, Spain",
+  "address": {
+    "house_number": "7",
+    "road": "Calle de Antonio Leyva",
+    "quarter": "Comillas",
+    "suburb": "Carabanchel",
+    "city": "Madrid",
+    "county": "Área metropolitana de Madrid y Corredor del Henares",
+    "state": "Community of Madrid",
+    "ISO3166-2-lvl4": "ES-MD",
+    "postcode": "28019",
+    "country": "Spain",
+    "country_code": "es"
+  },
+  "boundingbox": [
+    "40.396414",
+    "40.396514",
+    "-3.7151896",
+    "-3.7150896"
+  ]
+}

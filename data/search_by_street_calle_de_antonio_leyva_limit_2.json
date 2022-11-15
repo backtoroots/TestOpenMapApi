@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": 117238662,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 44658158,
+    "boundingbox": [
+      "40.3869622",
+      "40.3952818",
+      "-3.7169608",
+      "-3.7152137"
+    ],
+    "lat": "40.3909729",
+    "lon": "-3.7155954",
+    "display_name": "Calle de Antonio Leyva, Comillas, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28019, Spain",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5
+  },
+  {
+    "place_id": 123702326,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 81573222,
+    "boundingbox": [
+      "40.3972232",
+      "40.3974722",
+      "-3.7158753",
+      "-3.7155603"
+    ],
+    "lat": "40.3973625",
+    "lon": "-3.7157099",
+    "display_name": "Calle de Antonio Leyva, Opañel, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28019, Spain",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5
+  }
+]

@@ -1,0 +1,3 @@
+tests/allureres
+tests/.pytest_cache
+.idea

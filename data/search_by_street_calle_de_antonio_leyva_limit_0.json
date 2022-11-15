@@ -1,0 +1,20 @@
+[
+  {
+    "place_id": 121053543,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 67602520,
+    "boundingbox": [
+      "40.3855933",
+      "40.3869622",
+      "-3.7173976",
+      "-3.7169608"
+    ],
+    "lat": "40.3861835",
+    "lon": "-3.7172131",
+    "display_name": "Calle de Antonio Leyva, Comillas, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28019, Spain",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.5
+  }
+]

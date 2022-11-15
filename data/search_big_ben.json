@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": 16523026,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1802652184,
+    "boundingbox": [
+      "51.5006395",
+      "51.5007395",
+      "-0.1246338",
+      "-0.1245338"
+    ],
+    "lat": "51.5006895",
+    "lon": "-0.1245838",
+    "display_name": "Big Ben, Bridge Street, Westminster, Lambeth, City of Westminster, Greater London, England, SW1A 2JX, United Kingdom",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.7169301795209977,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": 134229191,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 123557148,
+    "boundingbox": [
+      "51.5006231",
+      "51.5007567",
+      "-0.1246941",
+      "-0.1244737"
+    ],
+    "lat": "51.500690000000006",
+    "lon": "-0.12458391796350343",
+    "display_name": "Big Ben, Officer's Corridor, Westminster, Lambeth, City of Westminster, Greater London, England, SW1A 0PW, United Kingdom",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.7169301795209977,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": 37454990,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3019436529,
+    "boundingbox": [
+      "-32.1539172",
+      "-32.1538172",
+      "151.8355031",
+      "151.8356031"
+    ],
+    "lat": "-32.1538672",
+    "lon": "151.8355531",
+    "display_name": "Big Ben, Mid-Coast Council, New South Wales, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.5,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": 58756000,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5288252680,
+    "boundingbox": [
+      "-29.4845124",
+      "-29.4844124",
+      "151.6579514",
+      "151.6580514"
+    ],
+    "lat": "-29.4844624",
+    "lon": "151.6580014",
+    "display_name": "Big Ben, Glen Innes Severn Council, New South Wales, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.5,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": 32574179,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2844263526,
+    "boundingbox": [
+      "-19.5194944",
+      "-19.5193944",
+      "144.5130056",
+      "144.5131056"
+    ],
+    "lat": "-19.5194444",
+    "lon": "144.5130556",
+    "display_name": "Big Ben, Charters Towers Regional, Queensland, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.5,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": 14573619,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1553411249,
+    "boundingbox": [
+      "-43.3996037",
+      "-43.3995037",
+      "171.6893551",
+      "171.6894551"
+    ],
+    "lat": "-43.3995537",
+    "lon": "171.6894051",
+    "display_name": "Big Ben, Selwyn District, Canterbury, New Zealand",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.5,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": 275242610,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 901823400,
+    "boundingbox": [
+      "13.9418574",
+      "13.9426883",
+      "121.1524388",
+      "121.1537169"
+    ],
+    "lat": "13.94224185",
+    "lon": "121.15312959528296",
+    "display_name": "Big Ben, Lipa, Batangas, Calabarzon, Philippines",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.39999999999999997
+  },
+  {
+    "place_id": 98051352,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9582696476,
+    "boundingbox": [
+      "-29.483358",
+      "-29.463358",
+      "151.6522423",
+      "151.6722423"
+    ],
+    "lat": "-29.473358",
+    "lon": "151.6622423",
+    "display_name": "Big Ben, Glen Innes Severn Council, New South Wales, Australia",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.39999999999999997
+  },
+  {
+    "place_id": 106083450,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 15655829,
+    "boundingbox": [
+      "38.85158",
+      "38.8811551",
+      "-80.222154",
+      "-80.2137157"
+    ],
+    "lat": "38.863166",
+    "lon": "-80.219428",
+    "display_name": "Big Ben, Upshur County, West Virginia, 26462, United States",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.3
+  },
+  {
+    "place_id": 105031072,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 15655827,
+    "boundingbox": [
+      "38.848814",
+      "38.854496",
+      "-80.223523",
+      "-80.216985"
+    ],
+    "lat": "38.850511",
+    "lon": "-80.2211652",
+    "display_name": "Big Ben, Upshur County, West Virginia, United States",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.3
+  }
+]

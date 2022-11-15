@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": 337939658,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2555133,
+    "boundingbox": [
+      "55.4913076",
+      "55.9577717",
+      "37.290502",
+      "37.9674277"
+    ],
+    "lat": "55.7504461",
+    "lon": "37.6174943",
+    "display_name": "Moscow, Central Federal District, Russia",
+    "class": "place",
+    "type": "city",
+    "importance": 0.9008193282833463,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": 297275733,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 121430,
+    "boundingbox": [
+      "46.6986975",
+      "46.758608",
+      "-117.039882",
+      "-116.9605363"
+    ],
+    "lat": "46.7323875",
+    "lon": "-117.0001651",
+    "display_name": "Moscow, Latah County, Idaho, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.6126345352272938,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 298571033,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 12196304,
+    "boundingbox": [
+      "45.0647356",
+      "45.1773584",
+      "-69.9665917",
+      "-69.787473"
+    ],
+    "lat": "45.071096",
+    "lon": "-69.891586",
+    "display_name": "Moscow, Somerset County, Maine, 04920, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4898598794606077,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297926391,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 197198,
+    "boundingbox": [
+      "35.05075",
+      "35.066173",
+      "-89.411041",
+      "-89.371835"
+    ],
+    "lat": "35.0619984",
+    "lon": "-89.4039612",
+    "display_name": "Moscow, Fayette County, West Tennessee, Tennessee, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4688882901947148,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 256987,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 157606151,
+    "boundingbox": [
+      "39.5237014",
+      "39.5637014",
+      "-79.0250273",
+      "-78.9850273"
+    ],
+    "lat": "39.5437014",
+    "lon": "-79.0050273",
+    "display_name": "Moscow, Allegany County, Maryland, 21521, United States",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.44042929990957447,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": 297400322,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 182742,
+    "boundingbox": [
+      "38.853832",
+      "38.866232",
+      "-84.2331761",
+      "-84.220081"
+    ],
+    "lat": "38.8570117",
+    "lon": "-84.2291017",
+    "display_name": "Moscow, Washington Township, Clermont County, Ohio, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4380698768979776,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297582773,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 188588,
+    "boundingbox": [
+      "41.332327",
+      "41.359539",
+      "-75.557187",
+      "-75.505558"
+    ],
+    "lat": "41.3367497",
+    "lon": "-75.5185191",
+    "display_name": "Moscow, Lackawanna County, Pennsylvania, 18444, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4055760782130027,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 3481022,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 454519035,
+    "boundingbox": [
+      "55.6130267",
+      "55.6530267",
+      "-4.423761",
+      "-4.383761"
+    ],
+    "lat": "55.6330267",
+    "lon": "-4.403761",
+    "display_name": "Moscow, East Ayrshire, Scotland, KA4 8PS, United Kingdom",
+    "class": "place",
+    "type": "village",
+    "importance": 0.40190327427879,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": 297909615,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 176108,
+    "boundingbox": [
+      "42.766249",
+      "42.775748",
+      "-77.904828",
+      "-77.887214"
+    ],
+    "lat": "42.7720066",
+    "lon": "-77.8966709",
+    "display_name": "Village of Leicester, Town of Leicester, Livingston County, New York, 14481, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3939491882884298,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 237675,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 154194549,
+    "boundingbox": [
+      "42.0302346",
+      "42.0702346",
+      "-84.5298799",
+      "-84.4898799"
+    ],
+    "lat": "42.0502346",
+    "lon": "-84.5098799",
+    "display_name": "Moscow, Moscow Township, Hillsdale County, Michigan, 49257, United States",
+    "class": "place",
+    "type": "village",
+    "importance": 0.385,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
+  }
+]

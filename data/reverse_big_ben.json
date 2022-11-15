@@ -1,0 +1,28 @@
+{
+  "place_id": 298086553,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "relation",
+  "osm_id": 1567699,
+  "lat": "51.499425200000005",
+  "lon": "-0.12444777279476393",
+  "display_name": "Palace of Westminster, The Terrace, Westminster, Lambeth, London, Greater London, England, SW1A 0AA, United Kingdom",
+  "address": {
+    "tourism": "Palace of Westminster",
+    "road": "The Terrace",
+    "quarter": "Westminster",
+    "suburb": "Lambeth",
+    "city": "London",
+    "state_district": "Greater London",
+    "state": "England",
+    "ISO3166-2-lvl4": "GB-ENG",
+    "postcode": "SW1A 0AA",
+    "country": "United Kingdom",
+    "country_code": "gb"
+  },
+  "boundingbox": [
+    "51.4981122",
+    "51.5007537",
+    "-0.1254736",
+    "-0.1236449"
+  ]
+}

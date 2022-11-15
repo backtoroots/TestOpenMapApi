@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": 297193564,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 165475,
+    "boundingbox": [
+      "32.5295236",
+      "42.009499",
+      "-124.482003",
+      "-114.1307816"
+    ],
+    "lat": "36.7014631",
+    "lon": "-118.755997",
+    "display_name": "California, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.9121363841577066,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297751690,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 396499,
+    "boundingbox": [
+      "37.4539501",
+      "37.9066896",
+      "-122.373843",
+      "-121.4690903"
+    ],
+    "lat": "37.6090291",
+    "lon": "-121.899142",
+    "display_name": "Alameda County, CAL Fire Northern Region, California, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.6663976555120164,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297158317,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 141178,
+    "boundingbox": [
+      "38.616032",
+      "38.645932",
+      "-92.595475",
+      "-92.524332"
+    ],
+    "lat": "38.628683",
+    "lon": "-92.5659635",
+    "display_name": "California, Moniteau County, Missouri, 65018, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5131335668641502,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297440367,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 1343387,
+    "boundingbox": [
+      "7.2908187",
+      "7.4017936",
+      "-72.9800359",
+      "-72.8649411"
+    ],
+    "lat": "7.3480915",
+    "lon": "-72.9459294",
+    "display_name": "California, Soto Norte, Santander, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4932222602395939,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297774447,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 130899,
+    "boundingbox": [
+      "38.9113845",
+      "38.9287702",
+      "-84.2706544",
+      "-84.252896"
+    ],
+    "lat": "38.9186766",
+    "lon": "-84.2635472",
+    "display_name": "California, Campbell County, Kentucky, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49000592705863144,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297673987,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 187252,
+    "boundingbox": [
+      "40.026312",
+      "40.105724",
+      "-79.946938",
+      "-79.8792678"
+    ],
+    "lat": "40.0657724",
+    "lon": "-79.8918436",
+    "display_name": "California, Washington County, Pennsylvania, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4734383006371805,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 80894474,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7859236955,
+    "boundingbox": [
+      "35.2466192",
+      "35.2666192",
+      "-118.0464978",
+      "-118.0264978"
+    ],
+    "lat": "35.2566192",
+    "lon": "-118.0364978",
+    "display_name": "18 Mile House, California, Kern County, California, United States",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.4587056755444554,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": 171753938,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 265895184,
+    "boundingbox": [
+      "33.9309812",
+      "33.9527623",
+      "-118.4461764",
+      "-118.4294235"
+    ],
+    "lat": "33.9419393",
+    "lon": "-118.43808772335558",
+    "display_name": "Palisades del Rey, California, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, United States",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.45091837309863714,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": 220154901,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 543608512,
+    "boundingbox": [
+      "2.895405",
+      "2.9126335",
+      "-76.4845612",
+      "-76.4506694"
+    ],
+    "lat": "2.9040836",
+    "lon": "-76.47706888850635",
+    "display_name": "California, Norte, Cauca, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44999999999999996,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": 297686067,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 297709,
+    "boundingbox": [
+      "-23.717",
+      "-23.615",
+      "-51.435",
+      "-51.238"
+    ],
+    "lat": "-23.6672543",
+    "lon": "-51.3554556",
+    "display_name": "Califórnia, Região Geográfica Imediata de Apucarana, Região Geográfica Intermediária de Londrina, Paraná, South Region, Brazil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44969545656776777,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

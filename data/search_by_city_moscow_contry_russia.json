@@ -1,0 +1,21 @@
+[
+  {
+    "place_id": 337939658,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2555133,
+    "boundingbox": [
+      "55.4913076",
+      "55.9577717",
+      "37.290502",
+      "37.9674277"
+    ],
+    "lat": "55.7504461",
+    "lon": "37.6174943",
+    "display_name": "Moscow, Central Federal District, Russia",
+    "class": "place",
+    "type": "city",
+    "importance": 1.0108193282833464,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"
+  }
+]
